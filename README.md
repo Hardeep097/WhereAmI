@@ -7,10 +7,10 @@ And give the map image I asked it to draw circle and uncertainty radius around t
 You should be able tro run this on your PC.
 
 You need API key from HERE.com
-
+1. Console app showing GeocoordinateWatcher status with co-ordinates
 ![image](https://user-images.githubusercontent.com/24284135/56984009-03b28700-6b53-11e9-80cf-cb7cbf38bce8.png)
 
-
+2. Downloaded image of current locatio from here.com using API call
 ![image](https://user-images.githubusercontent.com/24284135/56984095-3e1c2400-6b53-11e9-9411-be7dc621feac.png)
 
 
